@@ -1,0 +1,14 @@
+{
+    "admin": {
+        "password": "68e8e213d72156bb64a8cfb39c2ec4d7750af7577c8306f3aefcdf19bd84945e",
+        "date": "2021-12-05 19:07:56.572695"
+    },
+    "mystery_user": {
+        "password": "44edc23e8c2ff03212b73602d3a98884ebe8547b9d1f5f6ba643cb24f6831eda",
+        "date": "2021-12-05 19:18:00.009950"
+    },
+    "hackerman": {
+        "password": "c494a04e9a1edf2287459d845453e430fc46cd56090a292273e4bdb0d86751db",
+        "date": "2021-12-05 19:18:17.996269"
+    }
+}
